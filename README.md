@@ -108,3 +108,6 @@ Pipeline encapsulation ensures preprocessing is never accidentally skipped at in
 Logistic Regression is a strong baseline for structured churn data; don't default to complex models before checking linear ones.
 Contract type and tenure are the most actionable features — businesses should focus retention efforts on month-to-month, short-tenure customers with high monthly charges.
 GridSearchCV with F1 is more appropriate than accuracy for imbalanced targets (~27% churn rate).
+
+By Asra Khalid
+DHC-1017
